@@ -1,4 +1,4 @@
-# Makeup-Transfer-A-review
+# Makeup Transfer: A review
 **If you think this is helpful, please cite this paper.**
 
 BibTex
